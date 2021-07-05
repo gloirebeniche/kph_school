@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/gloirebeniche/kph_school/BuildConfig.java
+ com.gloirebeniche.kph_school.BuildConfig
